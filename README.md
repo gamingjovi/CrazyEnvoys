@@ -4,9 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CrazyEnvoys</title>
+    <style>
+        .center {
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
-    <div align="center">
+    <div class="center">
         <a href="https://modrinth.com/plugin/crazyenvoys">
             <img src="https://raw.githubusercontent.com/RyderBelserion/Assets/main/crazycrew/webp/CrazyEnvoysBanner.webp" alt="CrazyEnvoys Banner">
         </a>
@@ -33,7 +38,7 @@
         <br>
         <img src="https://cdn.jsdelivr.net/gh/intergrav/devins-badges/assets/compact/supported/paper_vector.svg" alt="Paper">
         <img src="https://cdn.jsdelivr.net/gh/intergrav/devins-badges/assets/compact/supported/purpur_vector.svg" alt="Purpur">
-        <p align="center">
+        <p>
             Drop custom crates with any prize you want all over spawn for players to fight over.
             <br>
             <a href="https://docs.crazycrew.us/crazyenvoys/home"><strong>Explore the docs »</strong></a>
